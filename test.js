@@ -1,4 +1,4 @@
-const { randomSuperpower } = require('./index');
+import randomSuperpower from "./index.js";
 
 console.log("One random power:", randomSuperpower());
 console.log("One weird power:", randomSuperpower({ type: "weird" }));

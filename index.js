@@ -36,4 +36,4 @@ function randomSuperpower(options = {}) {
   return count === 1 ? result[0] : result;
 }
 
-module.exports = { randomSuperpower };
+export default randomSuperpower;

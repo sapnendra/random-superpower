@@ -5,5 +5,6 @@
   "main": "index.js",
   "keywords": ["fun", "random", "superpower", "generator"],
   "author": "Sapnendra",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
