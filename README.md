@@ -1,9 +1,6 @@
 # random-superpower
-<<<<<<< HEAD
-Get a random (and sometimes ridiculous) superpower every time you call it. 🎲
-=======
 
-Get a random (and sometimes ridiculous) superpower every time you call it. 🎲
+Get a random (and sometimes ridiculous) superpower every time you call it.
 
 ## Installation
 
