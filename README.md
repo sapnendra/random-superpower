@@ -11,16 +11,13 @@ npm install random-superpower
 
 ## Usage
 ```bash
-const { randomSuperpower } = require('random-superpower');
+import randomSuperpower from "./index.js";
 
-// One random power
-console.log(randomSuperpower());
+console.log("One random power:", randomSuperpower());
 
-// One weird power
-console.log(randomSuperpower({ type: "weird" }));
+console.log("One weird power:", randomSuperpower({ type: "weird" }));
 
-// Three random powers
-console.log(randomSuperpower({ count: 3 }));
+console.log("Three random powers:", randomSuperpower({ count: 3 }));
 ```
 
 ## API
