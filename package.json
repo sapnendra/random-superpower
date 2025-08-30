@@ -1,0 +1,9 @@
+{
+  "name": "random-superpower",
+  "version": "1.0.0",
+  "description": "Get a random (and sometimes ridiculous) superpower every time you call it.",
+  "main": "index.js",
+  "keywords": ["fun", "random", "superpower", "generator"],
+  "author": "Sapnendra",
+  "license": "MIT"
+}
